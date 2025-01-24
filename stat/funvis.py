@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #define x vlues
-x=np.linspace(0,10,100)
+x=np.linspace(0,20,100)
 
 #define y values
 y=np.sin(x)
